@@ -9,9 +9,13 @@ This dataset contains images and annotations of cracks on harbor quay walls, cap
 飛行高度10mから空撮した写真です。ひび割れは、0.5mm〜数cm程度のものが複数あります。  
 The images were captured using an Autel Robotics EVO II Pro drone from a flight altitude of 10 meters. The dataset includes multiple cracks ranging in width from 0.5mm to several centimeters.
 
+### 論文 / Research Article 
+Komi, D.; Yoshida, D.; Kameyama, T. Development of an Automated Crack Detection System for Port Quay Walls Using a Small General-Purpose Drone and Orthophotos. Sensors 2025, 25, 4325. [https://doi.org/10.3390/s25144325](https://doi.org/10.3390/s25144325)
+
 ### ライセンス / License
 CC BY-SA 4.0
 
 ### チーム / Team
 大阪公立大学大学院 情報学研究科 学際情報学専攻 [吉田大介研究室](https://www.omu.ac.jp/i/geo/)  
 Daisuke Yoshida Laboratory, Department of Interdisciplinary Informatics, Graduate School of Informatics, Osaka Metropolitan University
+
